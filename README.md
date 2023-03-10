@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Phillip / Elliot</h1>
 <h3 align="center">I build responsive fullstack web applications</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 
 <h1 align="center">Technologies</h1>
 
