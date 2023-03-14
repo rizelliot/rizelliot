@@ -2,7 +2,7 @@
 <h3 align="center">I build responsive fullstack web applications</h3>
 
 
-<h1 align="center">Technologies</h1>
+<h1 align="center">Technologies I work in</h1>
 
 
 <p align="center">
