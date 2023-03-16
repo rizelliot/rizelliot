@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phillip / Elliot!</h1>
-<h3 align="center">I build responsive fullstack web applications</h3>
+<h3 align="center">I build responsive fullstack web applications with a focus on accessibility!</h3>
 
 
 <h1 align="center">Technologies I work in</h1>
